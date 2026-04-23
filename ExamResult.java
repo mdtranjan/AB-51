@@ -1,4 +1,4 @@
-
+package JavaP;
 public class ExamResult {
 public static void main(String[]args)
 {

@@ -1,4 +1,4 @@
-
+package JavaP;
 public class Arithmetic {
 	static void add()
 	{

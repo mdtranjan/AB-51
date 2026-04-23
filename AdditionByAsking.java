@@ -1,3 +1,4 @@
+package JavaP;
 import java.util.Scanner;
 
 public class AdditionByAsking {

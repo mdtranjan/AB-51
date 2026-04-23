@@ -1,4 +1,4 @@
-
+package JavaP;
 public class AllVariables {
 	
 	public static void main(String[] args) {

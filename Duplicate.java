@@ -1,6 +1,6 @@
 package JavaP;
 
-public class DuplicateCharacter {
+public class Duplicate {
 
 	public static void main(String[] args) {
 		String s1 ="Rajaaaa bbb";
